@@ -12,7 +12,7 @@ La interfaz de usuario presenta botones para controlar las acciones, como la gen
 ## Personalización del Laberinto
 Puedes ajustar varios parámetros, como el tamaño del laberinto y de las celdas, para personalizar la experiencia visual y el nivel de complejidad del laberinto generado.
 
-[![Watch the video](https://img.youtube.com/vi/H3t3nfXWrx4/maxresdefault.jpg)](https://youtu.be/H3t3nfXWrx4)
+![laberintos proceduales](https://github.com/JisusArroyoDev/LABERINTOS-PROCEDUALES/assets/84303540/665dc3ea-1cf0-4b0a-8f59-3003d2c8078e)
 
 ---
 * Desarrollado por Arroyo Mendoza Jesus David - 18 de Julio de 2023
