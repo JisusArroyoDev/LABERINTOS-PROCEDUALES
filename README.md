@@ -12,6 +12,7 @@ La interfaz de usuario presenta botones para controlar las acciones, como la gen
 ## Personalización del Laberinto
 Puedes ajustar varios parámetros, como el tamaño del laberinto y de las celdas, para personalizar la experiencia visual y el nivel de complejidad del laberinto generado.
 
+## GIF Funcionalidad
 ![laberintos proceduales](https://github.com/JisusArroyoDev/LABERINTOS-PROCEDUALES/assets/84303540/665dc3ea-1cf0-4b0a-8f59-3003d2c8078e)
 
 ---
